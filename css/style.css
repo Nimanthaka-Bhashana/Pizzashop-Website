@@ -217,11 +217,13 @@ section{
 }
 
 .home .slide .image{
-   flex:1 1 40rem;
+   flex:1 1 30rem;
 }
 
 .home .slide .image img{
    width: 100%;
+  
+   
 }
 
 .home .slide .content span{
